@@ -2,7 +2,7 @@
   "name": "test_test",
   "version": "0.0.1",
   "scripts": {
-    "start": "node app"
+    "start": "node test.html"
   },
   "engines": {
     "node": "10.11.0",
